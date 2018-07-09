@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 4, 2018, 11:08:51 AM
+    Author     : Clariza
+*/
+
+h1{
+    font-family: bazooka;
+    font-size: 24px;
+    color: brown;
+    text-align: center;
+    padding: 20px;
+}
+#menu{
+    text-align: center;
+}
+ul li{
+    background: brown;
+    color: beige;
+    list-style-type: none;
+    font-family: Arial Black;
+    font-size: 14px;
+    display:inline;
+    padding: 15px;
+    border-radius: 10px;
+}
+#pie{
+  background: brown;
+    color: beige; 
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+}
+form{
+    margin: 0 auto;
+    border: 2px solid brown;
+    width:80%;
+    padding: 20px;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+}
+form div{
+    padding: 5px;
+}
+label{
+    width:200px;
+    text-align: left;
+    display: inline-block;
+}
+textArea{
+    vertical-align: middle;}
+.ancho input{
+ width: 350px;   
+}
